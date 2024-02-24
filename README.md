@@ -1,4 +1,3 @@
-# CODSOFT
 I have completed 3 tasks given by Codsoft during my Internship Period.
 
 Task 1: Number Game
