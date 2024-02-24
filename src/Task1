@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Number {
 	static void GuessNum(){
-		int minRange = 10;
+	    int minRange = 10;
 	    int maxRange = 50;
 	    int maxLimit = 3;
 	    Random random = new Random();
